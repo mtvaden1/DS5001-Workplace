@@ -1,0 +1,4 @@
+book_id,source_file_path,raw_title,chap_regex,book_len,n_chaps
+145,/Users/michaelvaden/GithubRepos/DS5001-Workplace/data/eliot-set/ELIOT_GEORGE_MIDDLEMARCH-pg145.txt,ELIOT GEORGE MIDDLEMARCH,^\s*CHAPTER\s+[IVXLCM]+\.s*$,317305,86
+507,/Users/michaelvaden/GithubRepos/DS5001-Workplace/data/eliot-set/ELIOT_GEORGE_ADAM_BEDE-pg507.txt,ELIOT GEORGE ADAM BEDE,^\s*Chapter\s+[IVXLCM]+\s*$,215404,55
+6688,/Users/michaelvaden/GithubRepos/DS5001-Workplace/data/eliot-set/ELIOT_GEORGE_THE_MILL_ON_THE_FLOSS-pg6688.txt,ELIOT GEORGE THE MILL ON THE FLOSS,^\s*Chapter\s+[IVXLCM]+\.s*$,207461,58
